@@ -1,0 +1,17 @@
+README for eduWIKI 0
+----
+= Features =
+* School-made, school-focused!
+* Easy-to-use for your Tech team - should self explain itself!
+* If you need any help go to www.mediawiki.org!
+= Caveats =
+Our software, along with MediaWiki, does not come with any warranty. Use at your own risk.
+Caveats include:
+* No image support at the moment. However, we do support "$wgUseInstantCommons", which pulls out images from Wikimedia Commons. Use at your own
+risk, Wikimedia Commons is */* NOT CENSORED *\* and students can find caveats. There is NO way of letting only teachers use appropriate files from
+Wikimedia Commons. Also, if you need a file uploaded, if it's appropriate for Wikimedia Commons, upload it; vanity and personal photos can be uploaded
+at ImageShack, Photobucket, etc.; take the image url (it should end with .jpg, .png, .gif, etc.) and put it on your wiki.
+* Technical difficulties could occur. We cannot guarantee; we change MediaWiki raw code...
+* If you are familiar with MediaWikiTHERE ARE NO SYSOPS, NO BUREAUCRATS! We use Students, Teachers, and Tech.
+* Special:Block is disabled. Nobody can use Special:Block due to possible technical difficulties we could experience.
+If a student is not behaving, go to Special:UserRights and add "blocked" to the student. As you can see, eduWIKI uses the "blocked" user group.
