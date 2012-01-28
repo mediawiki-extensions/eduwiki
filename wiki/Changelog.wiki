@@ -1,0 +1,11 @@
+#summary Changelog for eduWIKI. Current version 1.0
+
+= Details =
+  * Autoconfirmed is now gone from eduWIKI.
+  * $wgVersion no longer reads "1.18.0".
+  * Tech will no longer have the right _`userrrights`_, instead they will get _`userrights`_.
+
+= Coming up =
+  * VersionHey will be deprecated.
+  * Hopefully teachers will be able to add students.
+  * BatchUserRights will be included for easiness.
