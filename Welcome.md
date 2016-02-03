@@ -1,0 +1,8 @@
+# Introduction #
+
+eduWIKI was designed for education in mind. Therefore, I customized eduWIKI from MediaWiki.
+
+
+# Details #
+
+To install eduWIKI, see the installation page. For help and support, see the "Issues" section of the wiki.
